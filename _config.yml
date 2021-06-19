@@ -1,0 +1,13 @@
+#Everything after a hashtag is a comment
+
+# This is written on YAML, which uses keyvalue pairs
+
+# Site settings
+title: Example Blog
+author:
+  name: Carlos Guio
+  email: cm.guiob@gmail.com
+description: "An example site with Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima #this allows github pages to create a remote reference of the theme
